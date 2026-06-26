@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/kilianbraquin/rel-pls/compare/v1.1.0...v1.2.0) (2026-06-26)
+
+
+### Features
+
+* test 01 ([654cd04](https://github.com/kilianbraquin/rel-pls/commit/654cd0455714706d8716436eb49a25c16e6b3839))
+
 ## [1.1.0](https://github.com/kilianbraquin/rel-pls/compare/v1.0.0...v1.1.0) (2026-06-24)
 
 
